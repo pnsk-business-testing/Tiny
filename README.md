@@ -1,20 +1,27 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Octoshift Collective
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+## People
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+### ADO Integration
+|![aringhazarian](https://avatars1.githubusercontent.com/u/11265791?s=100)|![brianaj](https://avatars1.githubusercontent.com/u/2413532?s=100)|![iomekam](https://avatars1.githubusercontent.com/u/6722748?s=100)|![keerthanakumar](https://avatars1.githubusercontent.com/u/2120827?s=100)|![teja-nanduri](https://avatars1.githubusercontent.com/u/52180048?s=100)|![zutshisunakshi](https://avatars1.githubusercontent.com/u/18541122?s=100)|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[aringhazarian](https://github.com/aringhazarian)<br>Engineer|[brianaj](https://github.com/brianaj)<br>Engineer|[iomekam](https://github.com/iomekam)<br>Engineer|[keerthanakumar](https://github.com/keerthanakumar)<br>Manager|[teja-nanduri](https://github.com/teja-nanduri)<br>Engineer|[zutshisunakshi](https://github.com/zutshisunakshi)<br>Engineer|
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+### Data Liberation
+|![@dpmex4527](https://avatars1.githubusercontent.com/u/839181?s=100)|![jfine](https://avatars1.githubusercontent.com/u/5478?s=100)|![kylemacey](https://avatars1.githubusercontent.com/u/519171?s=100)|![synthead](https://avatars1.githubusercontent.com/u/820984?s=100)|![tambling](https://avatars1.githubusercontent.com/u/1431144?s=100)|
+|:-:|:-:|:-:|:-:|:-:|
+|[dpmex4527](https://github.com/dpmex4527)<br>Engineer|[jfine](https://github.com/jfine)<br>Manager|[kylemacey](https://github.com/kylemacey)<br>Technical Lead|[synthead](https://github.com/synthead)<br>Engineer|[tambling](https://github.com/tambling)<br>Engineer|
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+### Lighthouse
+|![begonaguereca](https://avatars1.githubusercontent.com/u/19557880?s=100)|![ethanis](https://avatars1.githubusercontent.com/u/8703324?s=100)|![jonlipsky](https://avatars1.githubusercontent.com/u/1466386?s=100)|![rogerprz](https://avatars1.githubusercontent.com/u/17683099?s=100)|![seanknox](https://avatars1.githubusercontent.com/u/1231630?s=100)|![sophiederosa](https://avatars1.githubusercontent.com/u/7872894?s=100)
+|:-:|:-:|:-:|:-:|:-:|:-:
+|[begonaguereca](https://github.com/begonaguereca)<br>Engineer|[ethanis](https://github.com/ethanis)<br>Engineer|[jonlipsky](https://github.com/jonlipsky)<br>Manager|[rogerprz](https://github.com/rogerprz)<br>Engineer|[seanknox](https://github.com/seanknox)<br>Engineer|[sophiederosa](https://github.com/sophiederosa)<br>Engineer
+
+### Also...
+|![ericajoy](https://avatars1.githubusercontent.com/u/31131?s=100)|![roferg](https://avatars1.githubusercontent.com/u/40493721?s=100)|
+|:-:|:-:|
+|[ericajoy](https://github.com/ericajoy)<br>Manager|[roferg](https://github.com/roferg)<br>Product|
+
+(https://github.com/orgs/github/teams/octoshift-collective)
+
+Inititative Repo: https://github.com/github/octoshift
