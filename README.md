@@ -12,11 +12,6 @@
 |:-:|:-:|:-:|:-:|:-:|
 |[dpmex4527](https://github.com/dpmex4527)<br>Engineer|[jfine](https://github.com/jfine)<br>Manager|[kylemacey](https://github.com/kylemacey)<br>Technical Lead|[synthead](https://github.com/synthead)<br>Engineer|[tambling](https://github.com/tambling)<br>Engineer|
 
-### Lighthouse
-|![begonaguereca](https://avatars1.githubusercontent.com/u/19557880?s=100)|![ethanis](https://avatars1.githubusercontent.com/u/8703324?s=100)|![jonlipsky](https://avatars1.githubusercontent.com/u/1466386?s=100)|![rogerprz](https://avatars1.githubusercontent.com/u/17683099?s=100)|![seanknox](https://avatars1.githubusercontent.com/u/1231630?s=100)|![sophiederosa](https://avatars1.githubusercontent.com/u/7872894?s=100)
-|:-:|:-:|:-:|:-:|:-:|:-:
-|[begonaguereca](https://github.com/begonaguereca)<br>Engineer|[ethanis](https://github.com/ethanis)<br>Engineer|[jonlipsky](https://github.com/jonlipsky)<br>Manager|[rogerprz](https://github.com/rogerprz)<br>Engineer|[seanknox](https://github.com/seanknox)<br>Engineer|[sophiederosa](https://github.com/sophiederosa)<br>Engineer
-
 ### Also...
 |![ericajoy](https://avatars1.githubusercontent.com/u/31131?s=100)|![roferg](https://avatars1.githubusercontent.com/u/40493721?s=100)|
 |:-:|:-:|
